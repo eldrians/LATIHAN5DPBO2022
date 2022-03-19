@@ -7,8 +7,10 @@ spesifikasi modifikasi yang telah saya buat :
 2. mengganti nama variabel
 3. menambahkan variabel baru bernama MK (Mata Kuliah)
 4. menambahkan Joption untuk memberikan peringatan ketika data belum diisi semua dengan keterangan " Data Harus Diisi "
+5. membuat update 
 
-![Demo Apache](https://user-images.githubusercontent.com/91566708/159116758-05379af8-3f81-4001-a781-7106b8efdc0c.gif)
+![Gif hasil](https://user-images.githubusercontent.com/91566708/159118005-6b58910e-8cf5-4554-8c95-8fa4bc34371d.gif)
+
 
 berikut adalah foto Joption
 
